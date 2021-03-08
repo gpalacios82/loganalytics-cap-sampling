@@ -1,0 +1,1 @@
+# loganalytics-cap-sampling
